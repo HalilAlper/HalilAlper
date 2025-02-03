@@ -31,9 +31,9 @@ Gameplay Video: https://www.youtube.com/watch?v=i_O_kpII3RI <br />
 Play Store Link: https://play.google.com/store/apps/details?id=com.semruk.paperready <br /><br /><br />
 
 #### Gym Simulator
-Game Engine: Roblox
-Game Type: Roblox Simulator
-Description: This game was a remake game of the same brand, with a lot of more upgrades such as skills, accessory, shops, rebirth, boxing rings and competition mode, new tools and animations to upgrade your speed and strength, ragdolls and new maps. I was the only programmer and got the chance to develop all the mechanics above.
+Game Engine: Roblox <br />
+Game Type: Roblox Simulator <br />
+Description: This game was a remake game of the same brand, with a lot of more upgrades such as skills, accessory, shops, rebirth, boxing rings and competition mode, new tools and animations to upgrade your speed and strength, ragdolls and new maps. I was the only programmer and got the chance to develop all the mechanics above. <br />
 Gameplay Video: https://www.youtube.com/watch?v=46eQ3L4vQ6Q <br />
 Game Link: Removed <br /><br /><br />
 
