@@ -25,7 +25,8 @@ Detailing of what I've done:
 -	In-game economy and object management
 -	Upgrade systems
 -	UI integration
--	In-App purchases integration <br />
+-	In-App purchases integration
+<br />
 Gameplay Video: https://www.youtube.com/watch?v=i_O_kpII3RI <br />
 Play Store Link: https://play.google.com/store/apps/details?id=com.semruk.paperready <br /><br /><br />
 
