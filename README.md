@@ -9,7 +9,7 @@ I am Halil Alper Yalçın, a mid-level game developer with three years of profes
 - 💬 You can ask me about anything and I'll be happy to help. I've been educating people all around the world.
 - 📫 You can reach me via LinkedIn or Discord (halilalper).
 - ⚡ Fun fact about me: I've been literally coding half my life. Yet I'm just 25. How crazy is that?
-- 
+<br /><br />
 ### Project Experience:
 ---
 
