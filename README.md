@@ -25,24 +25,16 @@ Works:
 -	In-game economy and object management
 -	Upgrade systems
 -	UI integration
--	In-App purchases integration
-
-Gameplay Video: https://www.youtube.com/watch?v=i_O_kpII3RI
-
-Play Store Link: https://play.google.com/store/apps/details?id=com.semruk.paperready
-
-
+-	In-App purchases integration <br />
+Gameplay Video: https://www.youtube.com/watch?v=i_O_kpII3RI <br />
+Play Store Link: https://play.google.com/store/apps/details?id=com.semruk.paperready <br /><br /><br />
 
 #### Gym Simulator
-##### Game Engine: Roblox
-##### Game Type: Roblox Simulator
-##### Description: This game was a remake game of the same brand, with a lot of more upgrades such as skills, accessory, shops, rebirth, boxing rings and competition mode, new tools and animations to upgrade your speed and strength, ragdolls and new maps. I was the only programmer and got the chance to develop all the mechanics above.
-
-Gameplay Video: https://www.youtube.com/watch?v=46eQ3L4vQ6Q
-
-Game Link: Removed
-
-
+Game Engine: Roblox
+Game Type: Roblox Simulator
+Description: This game was a remake game of the same brand, with a lot of more upgrades such as skills, accessory, shops, rebirth, boxing rings and competition mode, new tools and animations to upgrade your speed and strength, ragdolls and new maps. I was the only programmer and got the chance to develop all the mechanics above.
+Gameplay Video: https://www.youtube.com/watch?v=46eQ3L4vQ6Q <br />
+Game Link: Removed <br /><br /><br />
 
 #### Ocean Sailor
 ##### Game Engine: Unity
