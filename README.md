@@ -45,7 +45,7 @@ Game Link: Removed <br /><br /><br />
 #### Ocean Sailor
 Game Engine: Unity <br />
 Game Type: Survival TDS <br />
-Description: One of my favorite works. It had the potential to grow but got killed. Still, it gave me a great experience working on 2D games. <br />
+Description: One of my favorite works. It had the potential to grow but got killed. Still, it gave me a great experience working on 2D games. <br /><br />
 Detailing of what I've done:
 -	My first 2D experience
 -	Multi-grid and shaped, growing inventory system
@@ -61,7 +61,7 @@ Play Store Link: https://play.google.com/store/apps/details?id=com.semruk.oceans
 #### Overweight Balls
 Game Engine: Unity <br />
 Game Type: Runner Hypercasual <br />
-Description: My rich-with-feedback game. Not only you grow and crack the ball you’re playing but also can break everything you can encounter and manipulate the roads to get enemies near you. <br />
+Description: My rich-with-feedback game. Not only you grow and crack the ball you’re playing but also can break everything you can encounter and manipulate the roads to get enemies near you. <br /><br />
 Detailing of what I've done:
 -	Player and NPC movement, player sizing and upgrades
 -	Road movement according to the weights and NPC movements
