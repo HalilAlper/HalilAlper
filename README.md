@@ -13,9 +13,9 @@ I am Halil Alper Yalçın, a mid-level game developer with three years of profes
 ### Project Experience:
 
 #### Paper Ready!
-Game Engine: Unity\n
-Game Type: Arcade-Idle
-Description: This arcade-idle game was the opportunity to develop my complex AI behaviors, data structures and dynamic systems coding skills. It’s one of my best work and I’ve worked with two other developers in this project, gaining further teamwork skills. 
+Game Engine: Unity<br />
+Game Type: Arcade-Idle<br />
+Description: This arcade-idle game was the opportunity to develop my complex AI behaviors, data structures and dynamic systems coding skills. It’s one of my best work and I’ve worked with two other developers in this project, gaining further teamwork skills. <br />
 Works:
 -	Employees’ and customers’ AI behaviors and mechanics with BehaviorTrees and AI states
 -	Differentiating stacking and queueing mechanics with various data structures
