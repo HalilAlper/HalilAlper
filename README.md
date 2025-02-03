@@ -9,9 +9,9 @@ I am Halil Alper Yalçın, a mid-level game developer with three years of profes
 - 💬 You can ask me about anything and I'll be happy to help. I've been educating people all around the world.
 - 📫 You can reach me via LinkedIn or Discord (halilalper).
 - ⚡ Fun fact about me: I've been literally coding half my life. Yet I'm just 25. How crazy is that?
-
+---
 ### Project Experience:
-
+---
 #### Paper Ready!
 Game Engine: Unity<br />
 Game Type: Arcade-Idle<br />
@@ -29,14 +29,14 @@ Detailing of what I've done:
 <br />
 Gameplay Video: https://www.youtube.com/watch?v=i_O_kpII3RI <br />
 Play Store Link: https://play.google.com/store/apps/details?id=com.semruk.paperready <br /><br /><br />
-
+---
 #### Gym Simulator
 Game Engine: Roblox <br />
 Game Type: Roblox Simulator <br />
 Description: This game was a remake game of the same brand, with a lot of more upgrades such as skills, accessory, shops, rebirth, boxing rings and competition mode, new tools and animations to upgrade your speed and strength, ragdolls and new maps. I was the only programmer and got the chance to develop all the mechanics above. <br /><br />
 Gameplay Video: https://www.youtube.com/watch?v=46eQ3L4vQ6Q <br />
 Game Link: Removed <br /><br /><br />
-
+---
 #### Ocean Sailor
 Game Engine: Unity <br />
 Game Type: Survival TDS <br />
@@ -50,9 +50,7 @@ Works:
 <br />
 Gameplay Video: https://www.youtube.com/watch?v=HxZPz1vDi_g <br />
 Play Store Link: https://play.google.com/store/apps/details?id=com.semruk.oceansailor <br /><br /><br />
-
-
-
+---
 #### Overweight Balls
 Game Engine: Unity <br />
 Game Type: Runner Hypercasual <br />
