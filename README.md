@@ -12,6 +12,7 @@ I am Halil Alper Yalçın, a mid-level game developer with three years of profes
 ---
 ### Project Experience:
 ---
+
 #### Paper Ready!
 Game Engine: Unity<br />
 Game Type: Arcade-Idle<br />
@@ -30,6 +31,7 @@ Detailing of what I've done:
 Gameplay Video: https://www.youtube.com/watch?v=i_O_kpII3RI <br />
 Play Store Link: https://play.google.com/store/apps/details?id=com.semruk.paperready <br /><br /><br />
 ---
+
 #### Gym Simulator
 Game Engine: Roblox <br />
 Game Type: Roblox Simulator <br />
@@ -37,6 +39,7 @@ Description: This game was a remake game of the same brand, with a lot of more u
 Gameplay Video: https://www.youtube.com/watch?v=46eQ3L4vQ6Q <br />
 Game Link: Removed <br /><br /><br />
 ---
+
 #### Ocean Sailor
 Game Engine: Unity <br />
 Game Type: Survival TDS <br />
