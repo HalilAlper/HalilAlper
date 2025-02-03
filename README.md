@@ -26,7 +26,9 @@ Works:
 -	Upgrade systems
 -	UI integration
 -	In-App purchases integration
+
 Gameplay Video: https://www.youtube.com/watch?v=i_O_kpII3RI
+
 Play Store Link: https://play.google.com/store/apps/details?id=com.semruk.paperready
 
 #### Gym Simulator
@@ -45,7 +47,9 @@ Works:
 -	Item usage, cooldowns and energy systems
 -	Player systems including aiming, ship upgrades and destruction
 -	Complex enemy and level spawn designs including multi-layered setup
+
 Gameplay Video: https://www.youtube.com/watch?v=HxZPz1vDi_g
+
 Play Store Link: https://play.google.com/store/apps/details?id=com.semruk.oceansailor
 
 #### Overweight Balls
@@ -57,7 +61,9 @@ Works:
 -	Road movement according to the weights and NPC movements
 -	Many feedbacks such as water and mud splashing (And player shakes), cracking etc. 
 -	Ragdoll flying again according to the physics
+-	
 Gameplay Video: https://www.youtube.com/watch?v=6iaWxAF4RYk
+
 Play Store Link: https://play.google.com/store/apps/details?id=com.semruk.overweightballs
 
 
