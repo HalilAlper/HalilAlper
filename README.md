@@ -30,7 +30,8 @@ Detailing of what I've done:
 <br />
 Gameplay Video: https://www.youtube.com/watch?v=i_O_kpII3RI <br />
 Play Store Link: https://play.google.com/store/apps/details?id=com.semruk.paperready <br /><br /><br />
----
+
+---<br />
 
 #### Gym Simulator
 Game Engine: Roblox <br />
