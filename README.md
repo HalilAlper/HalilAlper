@@ -1,4 +1,4 @@
-## Hello there! 👋
+## Hello There! 👋
 
 ### 🚀 About Me
 I am Halil Alper Yalçın, a mid-level game developer with three years of professional working experience and many more coding experience from the past. I like to code in C# and Luau, I usually use Unity or Roblox as my main game engine.
