@@ -29,7 +29,7 @@ Detailing of what I've done:
 -	In-App purchases integration
 <br />
 Gameplay Video: https://www.youtube.com/watch?v=i_O_kpII3RI <br />
-Play Store Link: [https://play.google.com/store/apps/details?id=com.semruk.paperready](https://play.google.com/store/apps/details?id=com.semruk.paperready&hl=tr) <br /><br /><br />
+Play Store Link: https://play.google.com/store/apps/details?id=com.semruk.paperready <br /><br /><br />
 
 ---
 
