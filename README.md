@@ -48,7 +48,7 @@ Game Design: All the design process including balancing the game
 And some other roles as we were only a few people developing this game
 <br />
 Gameplay Video: None yet <br />
-Game Link: [Click here!](https://www.roblox.com/games/16935765880) <br /><br /><br />
+Game Link: https://www.roblox.com/games/16935765880 <br /><br /><br />
 
 ---
 
@@ -68,7 +68,7 @@ Detailing of what I've done:
 -	In-App purchases integration
 <br />
 Gameplay Video: https://www.youtube.com/watch?v=i_O_kpII3RI <br />
-Game Link: [Click Here](https://play.google.com/store/apps/details?id=com.semruk.paperready)! <br /><br /><br />
+Game Link: https://play.google.com/store/apps/details?id=com.semruk.paperready <br /><br /><br />
 
 ---
 
@@ -93,7 +93,7 @@ Detailing of what I've done:
 -	Complex enemy and level spawn designs including multi-layered setup
 <br />
 Gameplay Video: https://www.youtube.com/watch?v=HxZPz1vDi_g <br />
-Play Store Link: [Click here!](https://play.google.com/store/apps/details?id=com.semruk.oceansailor) <br /><br /><br />
+Play Store Link: https://play.google.com/store/apps/details?id=com.semruk.oceansailor <br /><br /><br />
 
 ---
 
@@ -108,7 +108,7 @@ Detailing of what I've done:
 -	Ragdoll flying again according to the physics
 <br />
 Gameplay Video: https://www.youtube.com/watch?v=6iaWxAF4RYk <br />
-Play Store Link: [Click here!](https://play.google.com/store/apps/details?id=com.semruk.overweightballs)
+Play Store Link: https://play.google.com/store/apps/details?id=com.semruk.overweightballs
 
 
 <!--
