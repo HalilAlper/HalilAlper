@@ -68,7 +68,6 @@ Detailing of what I've done:
 -	In-App purchases integration
 <br />
 Gameplay Video: https://www.youtube.com/watch?v=i_O_kpII3RI <br />
-Game Link: [Click here!](https://www.roblox.com/games/16935765880) <br /><br /><br />
 Game Link: [Click Here](https://play.google.com/store/apps/details?id=com.semruk.paperready)! <br /><br /><br />
 
 ---
