@@ -13,7 +13,7 @@ I am Halil Alper Yalçın, a mid-level game developer with three years of profes
 ### Project Experience:
 ---
 
-#### BECOME TRIBE CHIEF TO PROVE DAD WRONG
+#### TRIBE CHIEF TYCOON
 Game Engine: Roblox<br />
 Game Type: Simulation - Tycoon<br />
 Description: Me and four of my friends made this project. I am the team lead. We did beta release and still updating.
@@ -48,7 +48,7 @@ Game Design: All the design process including balancing the game
 And some other roles as we were only a few people developing this game
 <br />
 Gameplay Video: None yet <br />
-Game Link: [Click here!](https://www.roblox.com/games/16935765880/COMBAT-BECOME-TRIBE-CHIEF-TO-PROVE-DAD-WRONG#!/about) <br /><br /><br />
+Game Link: [Click here!](www.roblox.com/games/16935765880) <br /><br /><br />
 
 ---
 
