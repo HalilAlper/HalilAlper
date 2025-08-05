@@ -47,7 +47,7 @@ Game Design: All the design process including balancing the game
 
 And some other roles as we were only a few people developing this game
 <br />
-Gameplay Video: None yet <br />
+Gameplay Video: https://www.youtube.com/watch?v=Lt_zrVRlcug <br />
 Game Link: https://www.roblox.com/games/16935765880 <br /><br /><br />
 
 ---
