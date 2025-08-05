@@ -16,7 +16,7 @@ I am Halil Alper Yalçın, a mid-level game developer with three years of profes
 #### TRIBE CHIEF TYCOON
 Game Engine: Roblox<br />
 Game Type: Simulation - Tycoon<br />
-Description: Me and four of my friends made this project. I am the team lead. We did beta release and still updating.
+Description: Me and four of my friends made this project. I am the team lead. We did beta release and still updating.<br />
 Scripting: Most of the game.
 - Main game structure
 - Main tycoon loop
@@ -39,11 +39,11 @@ Scripting: Most of the game.
 - Keeping updating the game
 
 Animation: Most of the game.
-- Professions: Crabbing, woodcutting, stone and ore mining, hunting, picking up
+- Professions: Crabbing, woodcutting, stone and ore mining, hunting, picking up<br />
 
-Team Management: I was the development lead with a PM friend helping me. Managed communications, meetings, assigned tasks, prepared project and version plans
+Team Management: I was the development lead with a PM friend helping me. Managed communications, meetings, assigned tasks, prepared project and version plans<br /><br />
 
-Game Design: All the design process including balancing the game
+Game Design: All the design process including balancing the game<br />
 
 And some other roles as we were only a few people developing this game
 <br />
